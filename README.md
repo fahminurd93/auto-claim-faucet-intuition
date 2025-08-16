@@ -8,7 +8,7 @@ screen -S intuition
 Clone Repository
 ```bash
 gitclone https://github.com/fahminurd93/auto-claim-faucet-intuition
-cd intuition
+auto-claim-faucet-intuition
 ```
 install depedencies
 ```bash
